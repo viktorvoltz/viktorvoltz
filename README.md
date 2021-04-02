@@ -1,4 +1,4 @@
-- 👋 Hi, I’m chinonso chinyeaka
+- 👋 Hi there, my name is chinonso chinyeaka. i am a growing junior software engineer with passion for learning.
 - 👀 I’m interested in mobile software development, computer vision (python openCV) and games.
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter mobile/desktop applications.
