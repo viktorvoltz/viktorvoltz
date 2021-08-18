@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in mobile software development, machine learning (computer vision with python openCV) and games.
 - 
-- 🌱 I’m building softwarecurrently learning flutter. checkout my latest flutter mobile app for android https://play.google.com/store/apps/details?id=com.flutter.smartnote
+- 🌱 I am currently building software with flutter. checkout my latest flutter mobile app for android https://play.google.com/store/apps/details?id=com.flutter.smartnote
 - 
 - 💞️ I’m looking to collaborate on flutter mobile/desktop applications.
 - 
