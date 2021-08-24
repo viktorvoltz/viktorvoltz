@@ -1,11 +1,11 @@
-- 👋 Hi there, my name is chinonso chinyeaka. i am a growing software developer with a passion for learning.
+- 👋 Hi there, my name is chinonso chinyeaka and i am a mobile software developer.
 
-- 👀 I’m interested in mobile software development, machine learning (computer vision with python openCV) and games.
-- 
+- 👀 I’m interested in mobile software development, computer vision, games etc.
+
 - 🌱 I am currently building software with flutter. checkout my latest flutter mobile app for android https://play.google.com/store/apps/details?id=com.flutter.smartnote
-- 
+
 - 💞️ I’m looking to collaborate on flutter mobile/desktop applications.
-- 
+
 - 📫 reach me on vctrchinyeaka@gmail.com
 
 <!---
