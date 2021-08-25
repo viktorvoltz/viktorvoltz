@@ -1,4 +1,4 @@
-- 👋 Hi there, my name is chinonso chinyeaka and i am a mobile software developer.
+- 👋 Hi there, i am a mobile software developer.
 
 - 👀 I’m interested in mobile software development, computer vision, games etc.
 
