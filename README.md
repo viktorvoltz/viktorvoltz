@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in mobile software development, web3, computer vision, games etc.
 
-- Checkout my latest flutter mobile app for android https://play.google.com/store/apps/details?id=com.flutter.smartnote
+- Checkout my latest flutter mobile app for android on [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
 
 
 
