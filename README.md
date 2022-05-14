@@ -4,7 +4,7 @@
 
 - 🎄 Checkout my latest flutter mobile app for android on [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
 
-- 🎧 Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
+- 🎧 Co-Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
 
 <!---
 viktorvoltz/viktorvoltz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
