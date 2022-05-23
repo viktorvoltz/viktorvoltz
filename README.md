@@ -1,8 +1,8 @@
 - 👋 Hi there, i am a mobile and backend software developer.
 
-- 👀 I’m interested in mobile and backend web software development, web3, computer vision, games etc.
+- 👀 I’m interested in mobile and backend web software development, cryptography & the EVM, computer vision, games etc.
 
-- 🎄 Built smart note. Download 💫 [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
+- 🎄 Built smart note. Download on [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
 
 - 🎧 Co-Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
 
