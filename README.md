@@ -1,4 +1,4 @@
-- 👋 Hi there, i am a fullstack mobile softwae developer.
+- 👋 Hi there, i am a fullstack mobile software developer.
 
 - ⛏ I’m interested in mobile and backend web software development, cryptography & the EVM, computer vision, games etc.
 
