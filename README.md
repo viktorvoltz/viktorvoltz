@@ -4,6 +4,8 @@
 
 - 🎄 Built smart note. Download on [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
 
+- 🔧 Doing something on [crypto price](https://github.com/viktorvoltz/crypto_price)
+
 - 🎧 Co-Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
 
 <!---
