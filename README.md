@@ -2,9 +2,11 @@
 
 - ⛏ I’m interested in mobile and backend web software development, cryptography & the EVM, computer vision, games etc.
 
-- 🎄 Built smart note. Download on [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
+- 🐱‍👤 Built Crypto Price. Download on [Play store](https://play.google.com/store/apps/details?id=com.chinonso.coingecko)
 
-- 🔧 Doing something on [crypto price](https://github.com/viktorvoltz/crypto_price)
+- 🗽 Built smart note. Download on [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
+
+- 🎮 hacking on [crypto price](https://github.com/viktorvoltz/crypto_price)
 
 - 🎧 Co-Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
 
