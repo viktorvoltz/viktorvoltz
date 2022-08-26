@@ -8,7 +8,7 @@
 
 - 🎧 Co-Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
 
-- 🌿 Open to collaboration
+- 🌿 vibin'
 
 <!---
 viktorvoltz/viktorvoltz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
