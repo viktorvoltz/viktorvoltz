@@ -6,6 +6,8 @@
 
 - 🗽 Built smart note. Available on [play store](https://play.google.com/store/apps/details?id=com.flutter.smartnote)
 
+- ⚡⚡ Writing a dApp to mint domain names on polygon matic network. [open-name-service](https://github.com/viktorvoltz/open-name-service)
+
 - 🎧 Co-Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
 
 
