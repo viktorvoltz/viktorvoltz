@@ -1,6 +1,6 @@
-- 👋 Hi there, i am a fullstack mobile software developer.
+- 👋 Hi there, i am a fullstack Mobile Software Engineer.
 
-- ⛏ I’m interested in mobile and backend web software development, cryptography & the EVM, computer vision, games etc.
+- ⛏ I’m interested in mobile and backend software development, cryptography & the EVM, computer vision, games etc.
 
 - 🍥 Built Crypto Price. Available on [Play store](https://play.google.com/store/apps/details?id=com.chinonso.coingecko)
 
