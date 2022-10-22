@@ -8,7 +8,7 @@
 
 - ⚡⚡ Writing a dApp to mint domain names on polygon blockchain network. [open-name-service](https://github.com/viktorvoltz/open-name-service)
 
-- 🎧 Co-Building the backend of [pharma bolt](https://pharmabolt.herokuapp.com/)
+- 🎧 
 
 
 <!---
