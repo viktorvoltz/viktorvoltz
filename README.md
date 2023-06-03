@@ -1,5 +1,4 @@
-👋 Hi there, i am a fullstack Mobile Software Engineer.
-⛏ Involved in mobile and backend software development, cryptography & the EVM, computer vision, games etc.
+👋 Hi, Fullstack Mobile Software Engineer.
 
 - ⚡⚡ Writing a dApp to mint domain names on polygon blockchain network. [open-name-service](https://github.com/viktorvoltz/open-name-service)
 
