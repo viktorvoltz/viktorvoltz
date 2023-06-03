@@ -2,8 +2,6 @@
 
 - ⚡⚡ Writing a dApp to mint domain names on polygon blockchain network. [open-name-service](https://github.com/viktorvoltz/open-name-service)
 
-- 🎧 chilling
-
 
 <!---
 viktorvoltz/viktorvoltz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
