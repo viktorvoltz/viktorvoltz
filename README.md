@@ -1,6 +1,6 @@
 👋 Hi, Fullstack Mobile Software Engineer.
 
-- ⚡⚡ Writing a dApp to mint domain names on polygon blockchain network. [open-name-service](https://github.com/viktorvoltz/open-name-service)
+- 🏹 contributing to open source; [digital image cryptology](https://github.com/viktorvoltz/flutter_steganograph)
 
 
 <!---
