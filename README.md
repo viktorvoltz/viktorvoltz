@@ -1,6 +1,6 @@
 👋 Hi, Fullstack Mobile Software Engineer.
 
-- 🏹 contributing to open source; [digital image steganography](https://pub.dev/packages/flutter_steganograph)
+- 🏹 writing OSS -> [digital image steganography](https://pub.dev/packages/flutter_steganograph)
 
 
 <!---
