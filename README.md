@@ -1,6 +1,6 @@
 👋 Hi, Fullstack Mobile Software Engineer.
 
-- 🏹 writing OSS -> [digital image steganography](https://pub.dev/packages/flutter_steganograph)
+- 🏹 writing OSS -> [digital steganography package](https://pub.dev/packages/flutter_steganograph)
 - 🖋️ latest article [Streamlining Data Writes in Flutter with Firestore Batching and Commits](https://medium.com/@vctrchinyeaka/streamlining-data-writes-in-flutter-with-firestore-batching-and-commits-c651510a2e02)
 
 
