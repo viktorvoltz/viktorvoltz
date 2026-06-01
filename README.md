@@ -1,8 +1,9 @@
 👋 Hi, I'm Victor.
 
--  Packages -> [flutter gen ui](https://pub.dev/packages/flutter_genui_kit), [digital steganography package](https://pub.dev/packages/flutter_steganograph)
--  Article [Streamlining Data Writes in Flutter with Firestore Batching and Commits](https://medium.com/@vctrchinyeaka/streamlining-data-writes-in-flutter-with-firestore-batching-and-commits-c651510a2e02)
--  building [pledgerapp](https://pledgerapp.com)
+- [flutter gen ui](https://pub.dev/packages/flutter_genui_kit): dynamic flutter ui generation (genUI) package
+- [digital steganography](https://pub.dev/packages/flutter_steganograph): package that embeds a message (text or image) into a cover image/text using the least significant bit (LSB)
+- [Streamlining Data Writes in Flutter with Firestore Batching and Commits](https://medium.com/@vctrchinyeaka/streamlining-data-writes-in-flutter-with-firestore-batching-and-commits-c651510a2e02)
+- [pledgerapp](https://pledgerapp.com)
 
 
 <!---
