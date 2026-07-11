@@ -1,6 +1,7 @@
 👋 Hi, I'm Victor.
 
 - [flutter gen ui](https://pub.dev/packages/flutter_genui_kit): dynamic flutter ui generation (genUI) package
+- [How I Built a Real-Time Query Layer for a Decentralized Wagering Protocol on Polygon](https://medium.com/@vctrchinyeaka/indexing-on-chain-prediction-markets-with-the-graph-a-practical-guide-4ee0f54a9202?sharedUserId=vctrchinyeaka)
 - [digital steganography](https://pub.dev/packages/flutter_steganograph): package that embeds a message (text or image) into a cover image/text using the least significant bit (LSB)
 - [Streamlining Data Writes in Flutter with Firestore Batching and Commits](https://medium.com/@vctrchinyeaka/streamlining-data-writes-in-flutter-with-firestore-batching-and-commits-c651510a2e02)
 - [pledgerapp](https://pledgerapp.com)
